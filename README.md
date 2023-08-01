@@ -3,7 +3,7 @@
 
 I will allow Users to :
 <br>
-add posts and comments
+add comments and like posts
 <br>
 
 <h2 >💻 Built with </h2>
